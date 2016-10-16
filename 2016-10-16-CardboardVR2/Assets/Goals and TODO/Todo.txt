@@ -1,0 +1,5 @@
+Import Cardboard 		- Done
+Create basic environment 	- 
+Create nodes for movement	- 
+Navmesh move toward nodes	-
+

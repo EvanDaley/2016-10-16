@@ -1,0 +1,1 @@
+I want to create a series of awesome first person games for Google Cardboard. In this first game I will just be creating the movement system and environment.
